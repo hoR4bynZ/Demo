@@ -37,14 +37,14 @@
 ### 0. Note
 已完成聊天功能，传输(图片、文字)功能；断点续传只支持txt文本，聊天记录保存边界检测还存在bug ;-<
 需要在E盘新建一个SYSTEM文件夹才能启动(保存注册数据、保存用户聊天记录等等)，文件夹结构： 
-├─ Client
-│   ├─ Record_Saved
-│   └─ recv
-└─ Server
-    ├─ FileTrans
-    ├─ Piece
-    │─ Record
-    └─ UserData
+├─ Client  
+│   ├─ Record_Saved  
+│   └─ recv  
+└─ Server  
+    ├─ FileTrans  
+    ├─ Piece  
+    │─ Record  
+    └─ UserData  
 
 
 ### 1. 功能演示
